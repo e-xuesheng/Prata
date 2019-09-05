@@ -6,6 +6,7 @@ int main(){
 float ly;
 std::cout<<"Please, enter the number of light years: ";
 std::cin>>ly;
+LYtoAU(ly);
 return 0;
 }
 
